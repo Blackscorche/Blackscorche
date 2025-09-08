@@ -1,15 +1,8 @@
-# 🚀 Welcome to the Code Universe | Blackscorche's Digital Workshop
+# 🚀 Welcome to the Code Universe | Digital Workshop
 
 <div align="center">
 
-```ascii
-    ██████╗ ██╗      █████╗  ██████╗██╗  ██╗███████╗ ██████╗ ██████╗  ██████╗██╗  ██║███████╗
-    ██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔════╝██╔═══██╗██╔══██╗██║  ██║██╔════╝
-    ██████╔╝██║     ███████║██║     █████╔╝ ███████╗██║     ██║   ██║██████╔╝██║  ██║█████╗  
-    ██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ╚════██║██║     ██║   ██║██╔══██╗██║  ██║██╔══╝  
-    ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗███████║╚██████╗╚██████╔╝██║  ██║╚██████╔╝███████╗
-    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=🔥+BLACKSCORCHE+🔥;💀+BLACKSCORCHE+💀;⚡+BLACKSCORCHE+⚡;🌟+BLACKSCORCHE+🌟" alt="Blackscorche Animated" />
 
 ### ⚡ **Elite Fullstack Engineer** | **UI/UX Architect** | **Mobile Dev Wizard** 
 
