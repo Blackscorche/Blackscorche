@@ -78,7 +78,13 @@ const blackscorche = {
 <br/>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=blackscorche&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=blackscorche&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackscorche&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&row=2" alt="More Trophies" />
 </p>
 
 </div>
