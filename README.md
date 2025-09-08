@@ -70,12 +70,23 @@ const blackscorche = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackscorche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00ff88"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackscorche&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blackscorche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00ff88"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackscorche&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackscorche&theme=tokyonight&background=0d1117&ring=00d9ff&fire=00ff88&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=blackscorche&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackscorche&theme=tokyonight&background=0d1117&ring=00d9ff&fire=00ff88&currStreakLabel=00d9ff" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=blackscorche&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+</p>
 
 </div>
 
