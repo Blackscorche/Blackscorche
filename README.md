@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Crafting+Digital+Experiences;React+%7C+Flutter+%7C+Node.js+%7C+Django;Building+Tomorrow's+Applications+Today" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=blackscorche&label=Profile+Visitors&color=00ff59&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=blackscorche&label=Profile+Visitors&color=ff0000&style=for-the-badge" alt="Profile Views" />
 
 <a href="https://github.com/blackscorche">
 <img src="https://img.shields.io/github/followers/blackscorche?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub Followers" />
